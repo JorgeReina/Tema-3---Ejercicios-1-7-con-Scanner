@@ -3,9 +3,9 @@ import java.util.Scanner;
 /**
 *
 *	Ejercicio 1, Pide dos numeros por teclado y muestra el resultado de su multiplicación,
-* 	utilizando la clase Scanner.
+* utilizando la clase Scanner.
 * 
-*	Nombre del archivo: Ejercicio1.java
+*	Nombre del archivo: Ejercicio1Scanner.java
 *
 *	@author Jorge Reina Romero
 *

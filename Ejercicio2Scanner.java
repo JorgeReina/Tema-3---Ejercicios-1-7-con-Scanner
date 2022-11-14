@@ -3,9 +3,9 @@ import java.util.Scanner;
 /**
 *
 *	Ejercicio 2, Conversor de euros a pesetas, los euros se introducen por teclado,
-* 	utilizando la clase Scanner.
+*	utilizando la clase Scanner.
 * 
-*	Nombre del archivo: Ejercicio2.java
+*	Nombre del archivo: Ejercicio2Scanner.java
 *
 *	@author Jorge Reina Romero
 *
